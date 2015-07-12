@@ -9,6 +9,7 @@ It has:
 
 TODO: 
 
-- DEV wallets?
-- Whatever else was promised to the dozens and dozens of sub-things. (Blockchain promises, organizational promises, etc. etc.)
+- DEV wallets
+- Bounties
+- Whatever else was promised to the dozens and dozens of sub-things. (Olypmic blockchain mining promises, organizational promises, etc. etc.)
 - "Official nonce" (without this, my entire ethereum-fun repo is kind of useless except as a thought experiment, which is the entire point. ;-) )
